@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d81EvNia4QflyoLEoAbnYl3HI9U0qwBZX4O5r4x7GFyZE+PRRCYqcNn5KXpFQf+O2tstFXKMbA/9a0hyp4naFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elytr\\source\\repos\\Webhook Spammer\\Webhook Spammer\\Webhook Spammer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elytr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
