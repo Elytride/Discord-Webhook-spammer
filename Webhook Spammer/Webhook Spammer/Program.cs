@@ -10,6 +10,9 @@ using System.Threading.Tasks;
 
 namespace Webhook_Spammer
 {
+//this program is only for educational and fun purpose.Please do not take it seriously.
+//ElyZap growtopia forwarder discord invite link : https://discord.gg/ddp9DDB
+//I,Elytride,the creator of this program,will not take any responsibility for what you've done/what damage you've caused with this program
     class Program
     {
         static bool IsDigitsOnly(string str)
